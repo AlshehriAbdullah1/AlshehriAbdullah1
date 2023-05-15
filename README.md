@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlshehriAbdullah1
 - 👀 I’m interested in ...     Mobile development
 - 🌱 I’m currently learning ...     Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Twitter:  @Abdullah_k146   
 - 
 
