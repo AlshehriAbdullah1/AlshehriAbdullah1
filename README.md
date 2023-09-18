@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlshehriAbdullah1
-- 👀 I’m interested in ...     Mobile development
+- 👀 I’m interested in ...     Mobile development and Backend
 - 🌱 I’m currently learning ...     Flutter Backend & React
 - 📫 How to reach me ... Twitter:  @Abdullah_k146   
 - 
