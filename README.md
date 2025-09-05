@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AlshehriAbdullah1
-- 👀 I’m interested in ...     Mobile development and Backend
-- 🌱 I’m currently learning ...     Automation tools
-- 📫 How to reach me ... X (Twitter):  @Abdullah_k146
+Welcome Everyone
+- X (Twitter):  @Abdullah_k146
 
 - I like to learn new technlogoies 
 <!---
